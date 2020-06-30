@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AR.unity
     guid: b1a0082901f39bd49a19a59e9f9f0032
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 92dbadf0f5677e2428115895439591b6,
+      type: 2}
