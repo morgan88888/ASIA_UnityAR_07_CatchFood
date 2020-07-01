@@ -10,7 +10,7 @@ public class Spawn : MonoBehaviour
 
     public void Replay()
     {
-        SceneManager.LoadScene("遊戲場景");
+        SceneManager.LoadScene("AR");
     }
 
     public void Quit()
